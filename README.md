@@ -1,5 +1,7 @@
 # Dataset Preparation & Transformation Module
 
+**Author:** thestacklyvineshj
+
 Full-stack application for selecting processed datasets, building transformation pipelines, validating results, and saving immutable prepared versions.
 
 ## Technologies
@@ -101,9 +103,45 @@ Login → Datasets → Customer Transactions → Preview → Prepare → add ste
 
 ## Screenshots
 
-Capture after running the app and place under `docs/screenshots/`:
+### Login
 
-Login, Dataset List, Dataset Details, Preview, Transformation Builder, Transformation Preview, Validation, Prepared Version, History, Dashboard.
+![Login screen](docs/screenshots/01-login.png)
+
+### Dataset list
+
+![Dataset list](docs/screenshots/02-dataset-list.png)
+
+### Dataset details
+
+![Dataset details](docs/screenshots/03-dataset-details.png)
+
+### Dataset preview
+
+![Dataset preview](docs/screenshots/04-dataset-preview.png)
+
+### Transformation builder
+
+![Transformation builder](docs/screenshots/05-transformation-builder.png)
+
+### Transformation preview
+
+![Transformation preview](docs/screenshots/06-transformation-preview.png)
+
+### Validation results
+
+![Validation results](docs/screenshots/07-validation-results.png)
+
+### Prepared dataset versions
+
+![Prepared versions](docs/screenshots/08-prepared-versions.png)
+
+### Transformation history
+
+![Transformation history](docs/screenshots/09-transformation-history.png)
+
+### Data preparation dashboard
+
+![Dashboard](docs/screenshots/10-dashboard.png)
 
 ## Write-up questions
 
